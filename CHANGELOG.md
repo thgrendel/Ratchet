@@ -6,6 +6,7 @@ CHANGELOG
 * "BC": Backwards compatibility break (from public component APIs)
 * "BF": Bug fix
 
+NOTE: fork for php8 usage
 ---
 
 * 0.4.4 (2021-12-11)
